@@ -40,19 +40,35 @@ The resulting phase maps successfully identified underlying nanoparticle dispers
 
 The following phase maps were generated using Fast Fourier Transform (FFT) analysis of simulated thermal response data. Each image represents the phase response at a different frequency and highlights the ability of Pulsed Phase Thermography to reveal underlying nanoparticle dispersion patterns.
 
-### 0.043 Hz
+### 0.03 Hz
 
-![Phase Map 0.043 Hz](images/phase_map_0.043Hz.png)
+![Phase Map 0.03 Hz](images/phase_map_0.03Hz.png)
 
-*Phase map generated at 0.043 Hz following FFT analysis of simulated thermal data.*
+*Phase map generated at 0.03 Hz following FFT analysis of simulated thermal data.*
+
+---
+
+### 0.56 Hz
+
+![Phase Map 0.056 Hz](images/phase_map_0.56Hz.png)
+
+*Phase map generated at 0.56 Hz following FFT analysis of simulated thermal data.*
 
 ---
 
 ### 0.075 Hz
 
-![Phase Map 0.075 Hz](images/phase_map_0.075Hz.png)
+![Phase Map 0.075 Hz](images/phase_map_0.75Hz.png)
 
 *Phase map generated at 0.075 Hz showing thermal phase variations associated with nanoparticle distribution.*
+
+---
+
+### 0.095 Hz
+
+![Phase Map 0.095 Hz](images/phase_map_0.95Hz.png)
+
+*Phase map generated at 0.95 Hz showing thermal phase variations associated with nanoparticle distribution.*
 
 ---
 
